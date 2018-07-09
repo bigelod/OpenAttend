@@ -1,0 +1,229 @@
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\bin\Debug\CPC Registration.exe
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\bin\Debug\CPC Registration.pdb
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\bin\Debug\CPC Registration.xml
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\ResolveAssemblyReference.cache
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.Keyboard.resources
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.Login.resources
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.Resources.resources
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Register.vbproj.GenerateResource.Cache
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC Registration.exe
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC Registration.xml
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC Registration.pdb
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\bin\Debug\CPC Registration.exe.config
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.TerminalMode.resources
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\ResolveAssemblyReference.cache
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.Keyboard.resources
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.Login.resources
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.Resources.resources
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.TerminalMode.resources
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Register.vbproj.GenerateResource.Cache
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Register.vbproj.ResolveComReference.cache
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.SignIn.resources
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.AdminOverride.resources
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.AdminSignIn.resources
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.FamilyLogin.resources
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\bin\Debug\CPC Registration.exe.config
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\bin\Debug\CPC Registration.exe
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\bin\Debug\CPC Registration.pdb
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\bin\Debug\CPC Registration.xml
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC Registration.exe
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC Registration.xml
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC Registration.pdb
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.AddFamily.resources
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\Interop.Dymo.dll
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\bin\Debug\Interop.Dymo.dll
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.TakePhoto.resources
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.FamilyMembers.resources
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\Interop.Dymo.dll
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Register.vbproj.ResolveComReference.cache
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\bin\Debug\Interop.Dymo.dll
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.AddFamily.resources
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.AdminOverride.resources
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.AdminSignIn.resources
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.FamilyLogin.resources
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.FamilyMembers.resources
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.SignIn.resources
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.TakePhoto.resources
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.AddMember.resources
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.PrintYouthBadges.resources
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.AddMember.resources
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.PrintYouthBadges.resources
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.GroupSelect.resources
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.GroupSelect.resources
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.InvalidInOut.resources
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.ValidateInOut.resources
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.AdminEditFamily.resources
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.AdminFamilyChoice.resources
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.FamilySearchPref.resources
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.AddEditEvent.resources
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.EditSettings.resources
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.EventCalendar.resources
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.FamilyNotes.resources
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.MedicalDetails.resources
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.EditLogin.resources
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.EditLogins.resources
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.LogDetails.resources
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.ViewLogs.resources
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.Reports.resources
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.AddEditEvent.resources
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.AdminEditFamily.resources
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.AdminFamilyChoice.resources
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.EditLogin.resources
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.EditLogins.resources
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.EditSettings.resources
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.EventCalendar.resources
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.FamilyNotes.resources
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.FamilySearchPref.resources
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.InvalidInOut.resources
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.LogDetails.resources
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.MedicalDetails.resources
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.Reports.resources
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.ValidateInOut.resources
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.ViewLogs.resources
+N:\A-Level\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.GroupRegister.resources
+F:\My Documents\School\Computing\A2\Project\Current Project Files\CPC Register\obj\Debug\CPC_Reg.GroupRegister.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\bin\Debug\CPC Registration.exe.config
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\Interop.Dymo.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\CPC_Register.vbproj.ResolveComReference.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\CPC Registration.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\CPC Registration.xml
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\CPC Registration.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\bin\Debug\CPC Registration.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\bin\Debug\CPC Registration.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\bin\Debug\CPC Registration.xml
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\bin\Debug\Interop.Dymo.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\CPC_Reg.AddEditEvent.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\CPC_Reg.AddFamily.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\CPC_Reg.AddMember.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\CPC_Reg.AdminEditFamily.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\CPC_Reg.AdminFamilyChoice.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\CPC_Reg.AdminOverride.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\CPC_Reg.AdminSignIn.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\CPC_Reg.EditLogin.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\CPC_Reg.EditLogins.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\CPC_Reg.EditSettings.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\CPC_Reg.EventCalendar.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\CPC_Reg.FamilyLogin.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\CPC_Reg.FamilyMembers.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\CPC_Reg.FamilyNotes.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\CPC_Reg.FamilySearchPref.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\CPC_Reg.GroupRegister.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\CPC_Reg.GroupSelect.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\CPC_Reg.InvalidInOut.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\CPC_Reg.Keyboard.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\CPC_Reg.LogDetails.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\CPC_Reg.Login.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\CPC_Reg.MedicalDetails.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\CPC_Reg.Resources.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\CPC_Reg.PrintYouthBadges.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\CPC_Reg.Reports.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\CPC_Reg.SignIn.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\CPC_Reg.TakePhoto.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\CPC_Reg.TerminalMode.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\CPC_Reg.ValidateInOut.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\CPC_Reg.ViewLogs.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\ResGen.read.1.tlog
+C:\Users\User\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\ProjectV2\CPC Register\obj\Debug\ResGen.write.1.tlog
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\ProjectV2\OpenAttend\obj\Debug\Interop.Dymo.dll
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\ProjectV2\OpenAttend\obj\Debug\OpenAttend.vbproj.ResolveComReference.cache
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\ProjectV2\OpenAttend\obj\Debug\OpenAttend.AddEditEvent.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\ProjectV2\OpenAttend\obj\Debug\OpenAttend.AddFamily.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\ProjectV2\OpenAttend\obj\Debug\OpenAttend.AddMember.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\ProjectV2\OpenAttend\obj\Debug\OpenAttend.AdminEditFamily.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\ProjectV2\OpenAttend\obj\Debug\OpenAttend.AdminOverride.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\ProjectV2\OpenAttend\obj\Debug\OpenAttend.AdminSignIn.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\ProjectV2\OpenAttend\obj\Debug\OpenAttend.EditLogin.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\ProjectV2\OpenAttend\obj\Debug\OpenAttend.EditLogins.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\ProjectV2\OpenAttend\obj\Debug\OpenAttend.EditSettings.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\ProjectV2\OpenAttend\obj\Debug\OpenAttend.EventCalendar.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\ProjectV2\OpenAttend\obj\Debug\OpenAttend.FamilyLogin.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\ProjectV2\OpenAttend\obj\Debug\OpenAttend.FamilyMembers.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\ProjectV2\OpenAttend\obj\Debug\OpenAttend.FamilyNotes.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\ProjectV2\OpenAttend\obj\Debug\OpenAttend.FamilySearchPref.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\ProjectV2\OpenAttend\obj\Debug\OpenAttend.GroupRegister.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\ProjectV2\OpenAttend\obj\Debug\OpenAttend.GroupSelect.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\ProjectV2\OpenAttend\obj\Debug\OpenAttend.InvalidInOut.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\ProjectV2\OpenAttend\obj\Debug\OpenAttend.Keyboard.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\ProjectV2\OpenAttend\obj\Debug\OpenAttend.LogDetails.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\ProjectV2\OpenAttend\obj\Debug\OpenAttend.Login.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\ProjectV2\OpenAttend\obj\Debug\OpenAttend.MedicalDetails.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\ProjectV2\OpenAttend\obj\Debug\OpenAttend.Resources.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\ProjectV2\OpenAttend\obj\Debug\OpenAttend.PrintYouthBadges.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\ProjectV2\OpenAttend\obj\Debug\OpenAttend.Reports.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\ProjectV2\OpenAttend\obj\Debug\OpenAttend.SignIn.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\ProjectV2\OpenAttend\obj\Debug\OpenAttend.TakePhoto.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\ProjectV2\OpenAttend\obj\Debug\OpenAttend.TerminalMode.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\ProjectV2\OpenAttend\obj\Debug\OpenAttend.ValidateInOut.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\ProjectV2\OpenAttend\obj\Debug\OpenAttend.ViewLogs.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\ProjectV2\OpenAttend\obj\Debug\OpenAttend.vbproj.GenerateResource.Cache
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\ProjectV2\OpenAttend\obj\Debug\OpenAttend.exe
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\ProjectV2\OpenAttend\obj\Debug\OpenAttend.xml
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\ProjectV2\OpenAttend\obj\Debug\OpenAttend.pdb
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\ProjectV2\OpenAttend\obj\Debug\OpenAttend.AdminFamilyChoice.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\ProjectV2\OpenAttend\obj\Debug\OpenAttend.vbproj.CoreCompileInputs.cache
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\bin\Debug\OpenAttend.exe.config
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\bin\Debug\OpenAttend.exe
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\bin\Debug\OpenAttend.pdb
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\bin\Debug\OpenAttend.xml
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\bin\Debug\CrystalDecisions.Shared.dll
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\bin\Debug\System.Web.Services.dll
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\bin\Debug\FlashControlV71.dll
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\bin\Debug\stdole.dll
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\bin\Debug\ShockwaveFlashObjects.dll
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\bin\Debug\Interop.Dymo.dll
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\OpenAttend.vbprojResolveAssemblyReference.cache
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\Interop.Dymo.dll
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\OpenAttend.vbproj.ResolveComReference.cache
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\OpenAttend.AddEditEvent.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\OpenAttend.AddFamily.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\OpenAttend.AddMember.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\OpenAttend.AdminEditFamily.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\OpenAttend.AdminFamilyChoice.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\OpenAttend.AdminOverride.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\OpenAttend.AdminSignIn.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\OpenAttend.EditLogin.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\OpenAttend.EditLogins.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\OpenAttend.EditSettings.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\OpenAttend.EventCalendar.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\OpenAttend.FamilyLogin.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\OpenAttend.FamilyMembers.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\OpenAttend.FamilyNotes.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\OpenAttend.FamilySearchPref.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\OpenAttend.GroupRegister.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\OpenAttend.GroupSelect.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\OpenAttend.InvalidInOut.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\OpenAttend.Keyboard.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\OpenAttend.LogDetails.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\OpenAttend.Login.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\OpenAttend.MedicalDetails.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\OpenAttend.Resources.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\OpenAttend.PrintYouthBadges.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\OpenAttend.Reports.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\OpenAttend.SignIn.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\OpenAttend.TakePhoto.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\OpenAttend.TerminalMode.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\OpenAttend.ValidateInOut.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\OpenAttend.ViewLogs.resources
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\OpenAttend.vbproj.GenerateResource.Cache
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\OpenAttend.vbproj.CoreCompileInputs.cache
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\OpenAttend.exe
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\OpenAttend.xml
+F:\PCStorage\Documents\Visual Studio 2010\Projects\Visual Basic\CPC_Registration V2\GitHubRelease\Src\obj\Debug\OpenAttend.pdb

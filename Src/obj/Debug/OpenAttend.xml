@@ -1,0 +1,311 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+OpenAttend
+</name>
+</assembly>
+<members>
+<member name="T:OpenAttend.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:OpenAttend.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:OpenAttend.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSet.EventsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSet.FamiliesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSet.LoginDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSet.LogsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSet.PeopleDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSet._People_TeamsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSet.RolesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSet.RulesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSet._Rules_EventsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSet.TeamsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSet._Teams_EventsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSet.QueryTablesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSet.EventsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSet.FamiliesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSet.LoginRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSet.LogsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSet.PeopleRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSet._People_TeamsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSet.RolesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSet.RulesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSet._Rules_EventsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSet.TeamsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSet._Teams_EventsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSet.QueryTablesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSet.EventsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSet.FamiliesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSet.LoginRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSet.LogsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSet.PeopleRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSet._People_TeamsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSet.RolesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSet.RulesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSet._Rules_EventsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSet.TeamsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSet._Teams_EventsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSet.QueryTablesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSetTableAdapters.EventsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSetTableAdapters.FamiliesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSetTableAdapters.LoginTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSetTableAdapters.LogsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSetTableAdapters.PeopleTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSetTableAdapters.People_TeamsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSetTableAdapters.RolesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSetTableAdapters.RulesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSetTableAdapters.Rules_EventsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSetTableAdapters.TeamsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSetTableAdapters.Teams_EventsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSetTableAdapters.QueryTablesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:OpenAttend.OpenAttendDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(OpenAttend.OpenAttendDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:OpenAttend.OpenAttendDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(OpenAttend.OpenAttendDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:OpenAttend.OpenAttendDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(OpenAttend.OpenAttendDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:OpenAttend.OpenAttendDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:OpenAttend.OpenAttendDataSetTableAdapters.TableAdapterManager.UpdateAll(OpenAttend.OpenAttendDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:OpenAttend.OpenAttendDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

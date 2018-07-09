@@ -1,0 +1,15 @@
+Crystal Reports:
+----------------
+CRRedist2008_x64.msi (64bit OS)
+CRRedist2008_x86.msi (32bit OS)
+
+Dymo Label Runtime/SDK:
+-----------------------
+DLS8Setup.8.2.2.996.exe
+DYMO_Label_v.8_SDK_Installer.exe
+
+FONTS:
+-------
+neuropob.ttf
+neuropol.ttf
+verdana.ttf
